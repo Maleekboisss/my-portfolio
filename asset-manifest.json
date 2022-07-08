@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/my-portfolio/static/js/main.66088224.js",
+    "static/media/sneaker.png": "/my-portfolio/static/media/sneaker.ce5f45c567836150c1a5.png",
+    "static/media/netflix.png": "/my-portfolio/static/media/netflix.f1706b02efd8812f31d6.png",
+    "static/media/Fashion-studio.png": "/my-portfolio/static/media/Fashion-studio.c48dccde4c537f026dbb.png",
+    "static/media/hulu.png": "/my-portfolio/static/media/hulu.e98c6e838c0219701e73.png",
+    "static/media/maleek.png": "/my-portfolio/static/media/maleek.973273212f5b7f734471.png",
+    "static/media/squid-games.png": "/my-portfolio/static/media/squid-games.20ac762a50f248b76b30.png",
+    "static/media/facebook.png": "/my-portfolio/static/media/facebook.c3a35e634a5f10f82cfb.png",
+    "static/media/agency.png": "/my-portfolio/static/media/agency.35a91fc70a8bee20e722.png",
+    "static/media/Cadillac.png": "/my-portfolio/static/media/Cadillac.3e530144e7756f35ec80.png",
+    "static/media/nfts-marketplace.png": "/my-portfolio/static/media/nfts-marketplace.04cc961ece90a37fa0c3.png",
+    "static/media/brain.png": "/my-portfolio/static/media/brain.0ea10297e9408692d626.png",
+    "static/media/icons.png": "/my-portfolio/static/media/icons.8f83ffe74e7ae75ff1d6.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.66088224.js.map": "/my-portfolio/static/js/main.66088224.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.66088224.js"
+  ]
+}
